@@ -15,7 +15,7 @@ A classic Minesweeper game implemented in **F#**, designed to demonstrate functi
 
 ### Prerequisites
 
-- [.NET SDK 6.0+](https://dotnet.microsoft.com/download)
+- [.NET SDK 8.0+](https://dotnet.microsoft.com/download)
 
 ### Run the Game
 
